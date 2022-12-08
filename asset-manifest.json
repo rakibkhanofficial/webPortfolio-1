@@ -1,4 +1,5 @@
-{
+{  "homepage": "https://webmasterahsan.github.io",
+   "private": true,
   "files": {
     "main.css": "/react-gh-pages/static/css/main.cf26d16f.css",
     "main.js": "/react-gh-pages/static/js/main.a8048581.js",
