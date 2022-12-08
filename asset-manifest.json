@@ -1,8 +1,9 @@
 {  "homepage": "https://webmasterahsan.github.io",
+   "name": "webmasterahsan.github.io"
    "private": true,
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.cf26d16f.css",
-    "main.js": "/react-gh-pages/static/js/main.a8048581.js",
+    "main.css": "/webmasterahsan.github.io/static/css/main.cf26d16f.css",
+    "main.js": "/webmasterahsan.github.io/static/js/main.a8048581.js",
     "static/media/CV_ahsan.pdf": "/react-gh-pages/static/media/CV_ahsan.6aa791d9bdd58a2d86b5.pdf",
     "static/media/thesis.png": "/react-gh-pages/static/media/thesis.e33dea38e5758fb4d683.png",
     "static/media/profile.png": "/react-gh-pages/static/media/profile.cac14b7d5ef0dc2d0676.png",
@@ -21,8 +22,8 @@
     "static/media/emedical.png": "/react-gh-pages/static/media/emedical.b3916d6206ec3bd1fb4f.png",
     "static/media/datafinance.png": "/react-gh-pages/static/media/datafinance.504651978c2568a241b1.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.cf26d16f.css.map": "/react-gh-pages/static/css/main.cf26d16f.css.map",
-    "main.a8048581.js.map": "/react-gh-pages/static/js/main.a8048581.js.map"
+    "main.cf26d16f.css.map": "/webmasterahsan.github.io/static/css/main.cf26d16f.css.map",
+    "main.a8048581.js.map": "/webmasterahsan.github.io/static/js/main.a8048581.js.map"
   },
   "entrypoints": [
     "static/css/main.cf26d16f.css",
